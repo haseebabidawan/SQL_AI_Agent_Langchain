@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+langchain_community
+sqlalchemy
+pandas
+numpy
+groq
+python-dotenv
+ipykernel
+psycopg2
+streamlit
